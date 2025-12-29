@@ -111,7 +111,7 @@ The design uses CSS variables. Find and modify these in `index.html`:
 
 ### Update Content
 
-- **Launch Date**: Change "Launching Early 2025" text in the HTML
+- **Launch Date**: Change "Launching Early 2026" text in the HTML
 - **Description**: Modify the hero description text
 - **Features**: Update the 4 feature items in the "What We're Building" section
 - **Social Links**: Add your social media URLs in the footer
